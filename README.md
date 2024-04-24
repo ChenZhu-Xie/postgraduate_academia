@@ -1,6 +1,6 @@
 ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/index.png "『Home/Main entrance』page")
 
-* 中文「自述文档」㊥ 👉 [博士_学术](https://gitee.com/ChenZhu-Xie/PhD_academia)
+* 中文「自述文档」㊥ 👉 [硕士_学术](https://gitee.com/ChenZhu-Xie/postgraduate_academia)
 
 # Static webpages (Crack password :point_right: log in Xanadu)
 

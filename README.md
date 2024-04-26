@@ -1,23 +1,31 @@
-[![Spring Outing with My Research Group.mp4](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_activities/master/img/课题组_春游.png)](https://www.youtube.com/watch?v=Hhg5m2Y7ZyM&feature=youtu.be "Spring Outing with My Research Group.mp4")
+[![Multicycle terahertz pulse generation by optical rectification in LiNbO3.pdf](https://github.com/ChenZhu-Xie/postgraduate_academia/raw/master/img/psc.png)](https://github.com/ChenZhu-Xie/postgraduate_academia/blob/master/2__Side_Projects/1.1__Presentation_in「Principle_of_Optics」Class__0.5_year_-_2020.10.21.pdf "Multicycle terahertz pulse generation by optical rectification in LiNbO3.pdf")
 
-# postgraduate Personal Activities
+# Postgraduate Personal Academia
 
 ## About
-* This repo 👉 [postgraduate activities](https://github.com/ChenZhu-Xie/postgraduate_activities)
-    * can be merged with the repo 👉 [postgraduate courses](https://github.com/ChenZhu-Xie/postgraduate_courses) and repo 👉 [postgraduate academia](https://github.com/ChenZhu-Xie/postgraduate_academia)
-        * The 3 repos together「fully described」my graduate career「as a postgraduate」
-* 中文「自述文档」㊥ 👉 [硕士 活动](https://gitee.com/ChenZhu-Xie/postgraduate_activities)
+* This repo 👉 [postgraduate academia](https://github.com/ChenZhu-Xie/postgraduate_academia)
+    * Contains repo 👉 [postgraduate academia 0.0-1.0 year](https://github.com/ChenZhu-Xie/postgraduate_academia__0.0-1.0_year)
+    * Contains repo 👉 [postgraduate academia 1.0-1.5 year](https://github.com/ChenZhu-Xie/postgraduate_academia__1.0-1.5_year)
+    * Contains repo 👉 [postgraduate academia 1.5-2.0 year](https://github.com/ChenZhu-Xie/postgraduate_academia__1.5-2.0_year)
+* Relates to repo 👉 [PhD academia](https://github.com/ChenZhu-Xie/PhD_academia)
+    * can be merged with the repo 👉 [PhD activities](https://github.com/ChenZhu-Xie/PhD_activities)
+        * The 2 repos together「fully described」my PhD career
+    * Contains repo 👉 [PhD academia 0.0-0.5 year](https://github.com/ChenZhu-Xie/PhD_academia)
+    * Contains repo 👉 [PhD academia 0.5-1.0 year](https://github.com/ChenZhu-Xie/PhD_academia__0.5-1.0_year)
+    * Contains repo 👉 [PhD academia 1.0-1.5 year](https://github.com/ChenZhu-Xie/PhD_academia__1.0-1.5_year)
+    * Contains repo 👉 [PhD academia 1.5-2.0 year](https://github.com/ChenZhu-Xie/PhD_academia__1.5-2.0_year)
+    * Contains repo 👉 [PhD academia 2.0-2.5 year](https://github.com/ChenZhu-Xie/PhD_academia__2.0-2.5_year)
+    * Contains repo 👉 [PhD academia 2.5-3.0 year](https://github.com/ChenZhu-Xie/PhD_academia__2.5-3.0_year)
+* 中文「自述文档」㊥ 👉 [硕士 学术](https://gitee.com/ChenZhu-Xie/postgraduate_academia)
 
-[![Zotero → Quicker → RoamEdit.mp4](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_activities/master/img/zotero_条目信息_到_RE_x264.png)](https://www.youtube.com/watch?v=dVefhyIGx3o "Zotero → Quicker → RoamEdit.mp4")
-
-[![Solving Job Problems for Cilen ← VBA Excel.xlsx](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_activities/master/img/车把车的车把.png)](https://github.com/ChenZhu-Xie/postgraduate_activities/blob/master/2__1.2__Creation_for_Others/1__2.1__Solving_Job_Problems_for_Her_%E2%86%90_VBA_Excel__1.0_year/2__4.1__%E8%BD%A6%E6%8A%8A%E8%BD%A6%E7%9A%84%E8%BD%A6%E6%8A%8A_%E2%86%90_VBA_Excel__2.0_year_-_2022.8.16.xlsx "Solving Job Problems for Cilen ← VBA Excel.xlsx")
+[![Multi-cycle THz OAM Source via Optical Rectification.pdf](https://github.com/ChenZhu-Xie/postgraduate_academia/raw/master/img/3.1__@page_122__1.5_year_-_2021.10.20.png)](https://github.com/ChenZhu-Xie/postgraduate_academia/blob/master/1__Group_Meeting/3.1__Multi-cycle_THz_OAM_Source_via_Optical_Rectification_←_Blender+RoamEdit__1.5_year_-_2021.10.20.pdf "Multi-cycle THz OAM Source via Optical Rectification.pdf")
 
 ## Description
-* Personal creations, art, and workflow during postgraduate studies; This also includes roommate activities, volunteer services, etc.
-    * 「Important content」is placed as「files」in the「primary directory」
-    * The「detailed information」of「the file」is placed in the form of「a folder」in the「secondary directory」with「the same serial number」as「the file」
+* Personal group meeting speeches and side projects
+    * *Important content* is placed as *files* in the *primary directory*
+    * The *detailed information* of *the file* is placed in the form of *a folder* in the *secondary directory* with *the same serial number* as *the file*
 
-[![Video for College Party Committee.mp4](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_activities/master/img/Video_Cover.png)](https://www.youtube.com/watch?v=QYr1QQYnC4A "Video for College Party Committee.mp4")
+[![NLAST v1.0.pdf](https://github.com/ChenZhu-Xie/postgraduate_academia/raw/master/img/4.1__@page_49__2.0_year_-_2022.3.4.png)](https://github.com/ChenZhu-Xie/postgraduate_academia/blob/master/1__Group_Meeting/4.1__NLAST_v1.0_←_Python+BookxNote_Pro__2.0_year_-_2022.3.4.pdf "NLAST v1.0.pdf")
 
 <!-- ## Inplementation
 1. Enter homepage from "Homepage (My Mini Website Portal). lnk".  
@@ -27,14 +35,16 @@
     * and the background image size cannot adapt to the browser window size. -->
 
 ## History
-* This project 👉 [postgraduate activities](https://github.com/ChenZhu-Xie/postgraduate_activities) was built
+* This project 👉 [postgraduate academia](https://github.com/ChenZhu-Xie/postgraduate_academia) was launched
     * (Personal time) by 22~24-year-old little Xie
     * (World time) during 2020 - 2022
-    * (Personal stage) when I was in college as a postgraduate
+    * (Personal stage) when I was a postgraduate (0.0~2.0)
 
 <!-- TEST 666 -->
 
-[![Help me up, I can still write a regular expression...mp4](https://raw.githubusercontent.com/ChenZhu-Xie/postgraduate_activities/master/img/扶我起来，我还能写一个正则表达式...png)](https://www.youtube.com/watch?v=xA3iqHTzwoA "Help me up, I can still write a regular expression...mp4")
+[![Scalar NLAST.pdf](https://github.com/ChenZhu-Xie/postgraduate_academia/raw/master/img/4.2__@page_57__2.0_year_-_2022.6.9.png)](https://github.com/ChenZhu-Xie/postgraduate_academia/blob/master/1__Group_Meeting/4.2__NLAST_scalar_←_Python+BookxNote_Pro__2.0_year_-_2022.6.9.pdf "Scalar NLAST.pdf")
+
+[![NLAST v1.0.pdf](https://github.com/ChenZhu-Xie/postgraduate_academia/raw/master/img/7.1__@page_51_←_Python__3.5_year_-_2023.12.28.png)](https://github.com/ChenZhu-Xie/postgraduate_academia/blob/master/1__Group_Meeting/4.1__NLAST_v1.0_←_Python+BookxNote_Pro__2.0_year_-_2022.3.4.pdf "NLAST v1.0.pdf")
 
 <!-- test -->
 

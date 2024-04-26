@@ -7,6 +7,8 @@
     * Contains repo 👉 [postgraduate academia 0.0-1.0 year](https://github.com/ChenZhu-Xie/postgraduate_academia__0.0-1.0_year)
     * Contains repo 👉 [postgraduate academia 1.0-1.5 year](https://github.com/ChenZhu-Xie/postgraduate_academia__1.0-1.5_year)
     * Contains repo 👉 [postgraduate academia 1.5-2.0 year](https://github.com/ChenZhu-Xie/postgraduate_academia__1.5-2.0_year)
+    * can be merged with repo 👉 [postgraduate courses](https://github.com/ChenZhu-Xie/postgraduate_courses) and repo 👉 [postgraduate activities](https://github.com/ChenZhu-Xie/postgraduate_activities)
+        * The 3 repos together「fully described」my postgraduate career
     * Relates to repo 👉 [PhD academia](https://github.com/ChenZhu-Xie/PhD_academia)
         * Contains repo 👉 [PhD academia 0.0-0.5 year](https://github.com/ChenZhu-Xie/PhD_academia)
         * Contains repo 👉 [PhD academia 0.5-1.0 year](https://github.com/ChenZhu-Xie/PhD_academia__0.5-1.0_year)

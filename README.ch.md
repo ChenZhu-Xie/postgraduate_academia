@@ -1,26 +1,33 @@
-[![课题组 春游.mp4](https://gitee.com/ChenZhu-Xie/postgraduate_activities/raw/master/img/课题组_春游.png)](https://www.youtube.com/watch?v=Hhg5m2Y7ZyM "课题组 春游.mp4")
+[![LiNbO3 中光整流产生多周期 THz 脉冲.pdf](https://gitee.com/ChenZhu-Xie/postgraduate_academia/raw/main/img/psc.png)](https://gitee.com/ChenZhu-Xie/postgraduate_academia/blob/main/2__Side_Projects/1.1__Presentation_in「Principle_of_Optics」Class__0.5_year_-_2020.10.21.pdf "LiNbO3 中光整流产生多周期 THz 脉冲.pdf")
 
-# 硕士 个人活动
+# 硕士 个人学术
 
 ## 关于
-* 该仓库 👉 [硕士 活动](https://gitee.com/ChenZhu-Xie/postgraduate_activities)
-    * 与仓库 👉 [硕士 课程](https://gitee.com/ChenZhu-Xie/postgraduate_courses) 和 👉 [硕士 学术](https://gitee.com/ChenZhu-Xie/postgraduate_academia) 一起
+* 该仓库 👉 [硕士 学术](https://gitee.com/ChenZhu-Xie/postgraduate_academia)
+    * 与仓库 👉 [硕士 课程](https://gitee.com/ChenZhu-Xie/postgraduate_courses) 和 👉 [硕士 活动](https://gitee.com/ChenZhu-Xie/postgraduate_activities) 一起
         * 三者「完整地描述」了「我的 硕士研究生 生涯」
-* English「README」ⓔ 👉 [postgraduate activities](https://github.com/ChenZhu-Xie/postgraduate_activities)
+    * 包含仓库 👉 [硕士 学术 0.0-1.0 year](https://gitee.com/ChenZhu-Xie/postgraduate_academia__0.0-1.0_year)
+    * 包含仓库 👉 [硕士 学术 1.0-1.5 year](https://gitee.com/ChenZhu-Xie/postgraduate_academia__1.0-1.5_year)
+    * 包含仓库 👉 [硕士 学术 1.5-2.0 year](https://gitee.com/ChenZhu-Xie/postgraduate_academia__1.5-2.0_year)
+    * 关联仓库 👉 [博士 学术](https://gitee.com/ChenZhu-Xie/PhD_academia)
+        * 与仓库 👉 [博士 活动](https://gitee.com/ChenZhu-Xie/PhD_activities) 一起
+            * 三者「完整地描述」了「我的 博士研究生 生涯」
+        * 包含仓库 👉 [博士 学术 0.0-0.5 year](https://gitee.com/ChenZhu-Xie/PhD_academia)
+        * 包含仓库 👉 [博士 学术 0.5-1.0 year](https://gitee.com/ChenZhu-Xie/PhD_academia__0.5-1.0_year)
+        * 包含仓库 👉 [博士 学术 1.0-1.5 year](https://gitee.com/ChenZhu-Xie/PhD_academia__1.0-1.5_year)
+        * 包含仓库 👉 [博士 学术 1.5-2.0 year](https://gitee.com/ChenZhu-Xie/PhD_academia__1.5-2.0_year)
+        * 包含仓库 👉 [博士 学术 2.0-2.5 year](https://gitee.com/ChenZhu-Xie/PhD_academia__2.0-2.5_year)
+        * 包含仓库 👉 [博士 学术 2.5-3.0 year](https://gitee.com/ChenZhu-Xie/PhD_academia__2.5-3.0_year)
+* English「README」ⓔ 👉 [postgraduate academia](https://github.com/ChenZhu-Xie/postgraduate_academia)
 
-<!-- [![The Calling「She & Me」](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/投影仪的妙用.png)](https://youtu.be/utkSjlCVySE "「The Calling」She_&_Me") -->
-[![Zotero 条目信息📄→ Quicker → RoamEdit.mp4](https://gitee.com/ChenZhu-Xie/postgraduate_activities/raw/master/img/zotero_条目信息_到_RE_x264.png)](https://www.bilibili.com/video/BV13C411b74F "Zotero 条目信息📄→ Quicker → RoamEdit.mp4")
-
-[![解决小车的实际工作需求 ← VBA Excel.xlsx](https://gitee.com/ChenZhu-Xie/postgraduate_activities/raw/master/img/车把车的车把.png)](https://gitee.com/ChenZhu-Xie/postgraduate_activities/blob/master/2__1.2__Creation_for_Others/1__2.1__Solving_Job_Problems_for_Her_%E2%86%90_VBA_Excel__1.0_year/2__4.1__%E8%BD%A6%E6%8A%8A%E8%BD%A6%E7%9A%84%E8%BD%A6%E6%8A%8A_%E2%86%90_VBA_Excel__2.0_year_-_2022.8.16.xlsx "解决小车的实际工作需求 ← VBA Excel.xlsx")
+[![基于 光整流的 窄带 THz OAM 源.pdf](https://gitee.com/ChenZhu-Xie/postgraduate_academia/raw/main/img/3.1__@page_122__1.5_year_-_2021.10.20.png)](https://gitee.com/ChenZhu-Xie/postgraduate_academia/blob/main/1__Group_Meeting/3.1__Multi-cycle_THz_OAM_Source_via_Optical_Rectification_←_Blender+RoamEdit__1.5_year_-_2021.10.20.pdf "基于 光整流的 窄带 THz OAM 源.pdf")
 
 ## 介绍
-* 硕士 研究生 时期 的 个人创造、艺术、工作流；还包括 室友活动、志愿服务 等
+* 硕士 研究生时期 的 个人组会演讲 和 子项目
     * 「重要内容」以「文件」的形式，放在「一级目录」中
     * 「文件」的「详细信息」，以「文件夹」的形式，放在与「文件」有「相同序号」的「二级目录」中
 
-<!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/ETP_&_NEU.png "3D logo: ETP & NEU") -->
-<!-- ![fig](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/ETP_&_NEU.png "3D logo: ETP & NEU") -->
-[![为 学院党支部 制作 党日活动视频.mp4](https://gitee.com/ChenZhu-Xie/postgraduate_activities/raw/master/img/Video_Cover.png)](https://www.bilibili.com/video/BV1A54y1r7bQ "为 学院党支部 制作 党日活动视频.mp4")
+[![NLAST v1.0.pdf](https://gitee.com/ChenZhu-Xie/postgraduate_academia/raw/main/img/4.1__@page_49__2.0_year_-_2022.3.4.png)](https://gitee.com/ChenZhu-Xie/postgraduate_academia/blob/main/1__Group_Meeting/4.1__NLAST_v1.0_←_Python+BookxNote_Pro__2.0_year_-_2022.3.4.pdf "NLAST v1.0.pdf")
 
 <!-- ## 实施
 1. 演讲 ppt 含视频
@@ -29,12 +36,15 @@
     * 需要进入「Total_Grades」文件夹的「子文件夹」中查看 相关文件 -->
 
 ## 历史
-* 该仓库 👉 [硕士 活动](https://gitee.com/ChenZhu-Xie/postgraduate_activities)
+* 该仓库 👉 [硕士 学术](https://gitee.com/ChenZhu-Xie/postgraduate_academia)
     * （个人时间）由 22 - 24 岁小谢
     * （世界时间）在 2020 - 2022 年的
     * （个人阶段）硕士 研究生阶段 创建的 (0.0~2.0)
 
-[![扶我起来，我还能写一个正则表达式...mp4](https://gitee.com/ChenZhu-Xie/postgraduate_activities/raw/master/img/扶我起来，我还能写一个正则表达式...png)](https://www.bilibili.com/video/BV1Fx4y1v7s5 "扶我起来，我还能写一个正则表达式...mp4")
+[![标量 NLAST.pdf](https://gitee.com/ChenZhu-Xie/postgraduate_academia/raw/main/img/4.2__@page_57__2.0_year_-_2022.6.9.png)](https://gitee.com/ChenZhu-Xie/postgraduate_academia/blob/main/1__Group_Meeting/4.2__NLAST_scalar_←_Python+BookxNote_Pro__2.0_year_-_2022.6.9.pdf "标量 NLAST.pdf")
+
+[![NLAST v1.0.pdf](https://gitee.com/ChenZhu-Xie/postgraduate_academia/raw/main/img/7.1__@page_51_←_Python__3.5_year_-_2023.12.28.png)](https://gitee.com/ChenZhu-Xie/postgraduate_academia/blob/main/1__Group_Meeting/4.1__NLAST_v1.0_←_Python+BookxNote_Pro__2.0_year_-_2022.3.4.pdf "NLAST v1.0.pdf")
+
 
 <!-- ## 软件架构
 软件架构说明

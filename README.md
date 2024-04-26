@@ -23,7 +23,7 @@
 [![Multi-cycle THz OAM Source via Optical Rectification.pdf](https://github.com/ChenZhu-Xie/postgraduate_academia/raw/main/img/3.1__@page_122__1.5_year_-_2021.10.20.png)](https://github.com/ChenZhu-Xie/postgraduate_academia/blob/main/1__Group_Meeting/3.1__Multi-cycle_THz_OAM_Source_via_Optical_Rectification_←_Blender+RoamEdit__1.5_year_-_2021.10.20.pdf "Multi-cycle THz OAM Source via Optical Rectification.pdf")
 
 ## Description
-* Personal group meeting speeches and side projects
+* Personal group meeting speeches and side projects during postgraduate studies
     * *Important content* is placed as *files* in the *primary directory*
     * The *detailed information* of *the file* is placed in the form of *a folder* in the *secondary directory* with *the same serial number* as *the file*
 

@@ -29,7 +29,7 @@
 
 [![NLAST v1.0.pdf](https://gitee.com/ChenZhu-Xie/postgraduate_academia/raw/main/img/4.1__@page_49__2.0_year_-_2022.3.4.png)](https://gitee.com/ChenZhu-Xie/postgraduate_academia/blob/main/1__Group_Meeting/4.1__NLAST_v1.0_←_Python+BookxNote_Pro__2.0_year_-_2022.3.4.pdf "NLAST v1.0.pdf")
 
-<!-- ## 实施
+<!-- ## 实施 d
 1. 演讲 ppt 含视频
     * 要播放视频，需要进入「Presentations」目录下的「子目录」中查看 ppt
 2. 学业水平 含「随时间演化」的切片/断面

@@ -16,6 +16,8 @@
         * Contains repo 👉 [PhD academia 1.5-2.0 year](https://github.com/ChenZhu-Xie/PhD_academia__1.5-2.0_year)
         * Contains repo 👉 [PhD academia 2.0-2.5 year](https://github.com/ChenZhu-Xie/PhD_academia__2.0-2.5_year)
         * Contains repo 👉 [PhD academia 2.5-3.0 year](https://github.com/ChenZhu-Xie/PhD_academia__2.5-3.0_year)
+        * can be merged with the repo 👉 [PhD activities](https://github.com/ChenZhu-Xie/PhD_activities)
+            * The 2 repos together「fully described」my PhD career
 * 中文「自述文档」㊥ 👉 [硕士 学术](https://gitee.com/ChenZhu-Xie/postgraduate_academia)
 
 [![Multi-cycle THz OAM Source via Optical Rectification.pdf](https://github.com/ChenZhu-Xie/postgraduate_academia/raw/main/img/3.1__@page_122__1.5_year_-_2021.10.20.png)](https://github.com/ChenZhu-Xie/postgraduate_academia/blob/main/1__Group_Meeting/3.1__Multi-cycle_THz_OAM_Source_via_Optical_Rectification_←_Blender+RoamEdit__1.5_year_-_2021.10.20.pdf "Multi-cycle THz OAM Source via Optical Rectification.pdf")

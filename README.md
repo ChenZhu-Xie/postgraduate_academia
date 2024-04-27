@@ -9,6 +9,7 @@
     * Contains repo 👉 [postgraduate academia 0.0-1.0 year](https://github.com/ChenZhu-Xie/postgraduate_academia__0.0-1.0_year)
     * Contains repo 👉 [postgraduate academia 1.0-1.5 year](https://github.com/ChenZhu-Xie/postgraduate_academia__1.0-1.5_year)
     * Contains repo 👉 [postgraduate academia 1.5-2.0 year](https://github.com/ChenZhu-Xie/postgraduate_academia__1.5-2.0_year)
+        * Nurtures model 👉 [NLAST-scalar model](https://github.com/ChenZhu-Xie/NLAST)
     * Relates to repo 👉 [PhD academia](https://github.com/ChenZhu-Xie/PhD_academia)
         * can be merged with the repo 👉 [PhD activities](https://github.com/ChenZhu-Xie/PhD_activities)
             * The 2 repos together「fully described」my PhD career

@@ -9,6 +9,7 @@
     * 包含仓库 👉 [硕士 学术 0.0-1.0 year](https://github.com/ChenZhu-Xie/postgraduate_academia__0.0-1.0_year)
     * 包含仓库 👉 [硕士 学术 1.0-1.5 year](https://github.com/ChenZhu-Xie/postgraduate_academia__1.0-1.5_year)
     * 包含仓库 👉 [硕士 学术 1.5-2.0 year](https://github.com/ChenZhu-Xie/postgraduate_academia__1.5-2.0_year)
+        * 孕育模型 👉 [NLAST-scalar 模型](https://gitee.com/ChenZhu-Xie/NLAST)
     * 关联仓库 👉 [博士 学术](https://gitee.com/ChenZhu-Xie/PhD_academia)
         * 与仓库 👉 [博士 活动](https://gitee.com/ChenZhu-Xie/PhD_activities) 一起
             * 三者「完整地描述」了「我的 博士研究生 生涯」

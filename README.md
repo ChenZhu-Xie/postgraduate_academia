@@ -20,7 +20,7 @@
         * Contains repo 👉 [PhD academia 2.5-3.0 year](https://github.com/ChenZhu-Xie/PhD_academia__2.5-3.0_year)
 * 中文「自述文档」㊥ 👉 [硕士 学术](https://gitee.com/ChenZhu-Xie/postgraduate_academia)
 
-[![NLAST v1.0.pdf](https://github.com/ChenZhu-Xie/postgraduate_academia/raw/main/img/7.1__@page_51_←_Python__3.5_year_-_2023.12.28.png)](https://github.com/ChenZhu-Xie/postgraduate_academia/blob/main/1__Group_Meeting/4.1__NLAST_v1.0_←_Python+BookxNote_Pro__2.0_year_-_2022.3.4.pdf "NLAST v1.0.pdf")
+[![Multicycle terahertz pulse generation by optical rectification in LiNbO3.pdf](https://github.com/ChenZhu-Xie/postgraduate_academia/raw/main/img/psc.png)](https://github.com/ChenZhu-Xie/postgraduate_academia/blob/main/2__Side_Projects/1.1__Presentation_in「Principle_of_Optics」Class__0.5_year_-_2020.10.21.pdf "Multicycle terahertz pulse generation by optical rectification in LiNbO3.pdf")
 
 ## Description
 * Personal group meeting speeches and side projects during postgraduate studies
@@ -46,7 +46,7 @@
 
 [![Scalar NLAST.pdf](https://github.com/ChenZhu-Xie/postgraduate_academia/raw/main/img/4.2__@page_57__2.0_year_-_2022.6.9.png)](https://github.com/ChenZhu-Xie/postgraduate_academia/blob/main/1__Group_Meeting/4.2__NLAST_scalar_←_Python+BookxNote_Pro__2.0_year_-_2022.6.9.pdf "Scalar NLAST.pdf")
 
-[![Multicycle terahertz pulse generation by optical rectification in LiNbO3.pdf](https://github.com/ChenZhu-Xie/postgraduate_academia/raw/main/img/psc.png)](https://github.com/ChenZhu-Xie/postgraduate_academia/blob/main/2__Side_Projects/1.1__Presentation_in「Principle_of_Optics」Class__0.5_year_-_2020.10.21.pdf "Multicycle terahertz pulse generation by optical rectification in LiNbO3.pdf")
+[![Scalar NLAST - Dir](https://github.com/ChenZhu-Xie/postgraduate_academia/raw/main/img/4.2__@page_5__2.0_year_-_2022.6.9.png)](https://github.com/ChenZhu-Xie/postgraduate_academia/blob/main/1__Group_Meeting/4.2__NLAST_scalar_←_Python+BookxNote_Pro__2.0_year_-_2022.6.9 "Scalar NLAST - Dir")
 
 <!-- test -->
 
